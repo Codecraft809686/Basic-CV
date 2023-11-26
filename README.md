@@ -20,8 +20,7 @@ Explain what your project is about, its purpose, and why it's useful.
 - List key features or functionalities of your project.
 
 ## Installation
-
-Provide instructions on how to install or set up your project.
+You can run it in googlecolab.
 
 ## Usage
 
