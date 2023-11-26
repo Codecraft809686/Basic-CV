@@ -17,7 +17,7 @@ Explain what your project is about, its purpose, and why it's useful.
 
 ## Features
 
-- List key features or functionalities of your project.
+- You need to add them
 
 ## Installation
 You can run it in googlecolab.Click here-https://colab.research.google.com/drive/1JUGyKzY1m4ZU8xERtmGAuOdmeL0UB0qU?usp=sharing
