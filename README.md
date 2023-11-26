@@ -1,6 +1,6 @@
-# Project Title
+# Basic CV
 
-Brief description or overview of your project.
+This is Basic ComputerVison Model and is made in GoogleColab
 
 ## Table of Contents
 
