@@ -19,7 +19,7 @@ Explain what your project is about, its purpose, and why it's useful.
 
 - You need to add them
 
-## Installation
+## Debug
 You can run it in googlecolab.Click here-https://colab.research.google.com/drive/1JUGyKzY1m4ZU8xERtmGAuOdmeL0UB0qU?usp=sharing
 
 ## Usage
